@@ -10,5 +10,6 @@
     text-decoration: none;
 }
 .button:hover{
+    color: rgb(201, 201, 201);
     background: #B34B67;
 }

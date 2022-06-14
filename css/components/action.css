@@ -6,6 +6,7 @@
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
+    transition: 0.5s;
 }
 .action::before{
     content: "";
@@ -13,5 +14,7 @@
     width: 10px;
     height: 10px;
     margin-right: 10px;
-
+}
+.action:hover{
+    opacity: 0.8;
 }
